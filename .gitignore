@@ -1,0 +1,5 @@
+.env
+.idea
+.streamlit
+.DS_Store
+afhq
