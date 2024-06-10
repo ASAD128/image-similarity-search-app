@@ -1,5 +1,5 @@
 # Image Similarity Search App
-Building an Image Similarity Search app using Image Embeddings & Qdrant Vector DB
+LLM powered Image Similarity Search app using Image Embeddings & Qdrant Vector DB
 
 ## Demo
 
